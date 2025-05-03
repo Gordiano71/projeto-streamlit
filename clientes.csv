@@ -1,6 +1,3 @@
-nome,data_nascimento,tipo
-Jesse,2025-01-06,Pessoa fisica
-Isabel,2024-05-06,Pessoa fisica
-Maria,2022-02-26,Pessoa Juridica
-
-
+nome,cpf,data_nascimento,genero,tipo
+Jesse,423.781.668-00,1995-07-11,Pessoa Física
+Jesse2,456.789.456-55,1996-07-11,Masculino,Pessoa Física
